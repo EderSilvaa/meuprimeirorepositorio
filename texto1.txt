@@ -1,1 +1,9 @@
-eder jose 
+eder jose trindade silva 
+
+
+1- primeiro passo >git config --global user.emai e depois git config user.name para configurar com email e nome 
+2- depois cd para direcionar para uma pasta especifica
+3- git mkdir para criar uma pasta 
+4- depois usar git add " nome da pasta"
+5 - git status para verificar 
+6- git commit -m para passar para o arquivio para o commit 
